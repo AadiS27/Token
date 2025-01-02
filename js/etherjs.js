@@ -1,6 +1,6 @@
 const heelo = () => {
     return ( 
-        <div>
+        <div class="bg-slate-100">
             Helloa aaa
         </div>
      );
